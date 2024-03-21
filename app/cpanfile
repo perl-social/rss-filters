@@ -1,0 +1,2 @@
+requires 'Mojolicious';
+requires 'lib::relative';
